@@ -1,1 +1,49 @@
-# expedite-site
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Expedite Talent Search</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 30px;
+    }
+    h1 {
+      color: #004080;
+    }
+    section {
+      max-width: 600px;
+      margin: auto;
+      line-height: 1.6;
+    }
+    footer {
+      text-align: center;
+      margin-top: 40px;
+      font-size: 0.9em;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Expedite Talent Search</h1>
+    <p>Compliance-driven Consulting & Recruitment Solutions</p>
+  </header>
+
+  <section>
+    <p>We specialize in statutory outreach, recruitment logistics, vendor onboarding, and brand identity consulting. Our approach is modular, compliance-oriented, and benchmarked against global standards.</p>
+    <p><strong>Contact:</strong> info@example.com</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2026 Expedite Talent Search</p>
+  </footer>
+</body>
+</html># expedite-site
